@@ -5,8 +5,8 @@ The final report can be found in `MT5751Assignment2.docx` and `MT5751Assignment2
 
 * `Assn2_Fig1.jpg` – Figure 1 output from `Figure1.qgz`
 * `Assn2_Fig2.jpg` – Figure 1 output from `Figure2.qgz`
-* Data folder – data for analysis
-    * DS_10283_2409, National_Forest_Inventory_Scotland_2022, and Native_Woodland_Survey_of_Scotland_4228117159943345825 – external data folders where `.shp`s are too large to include in the repo; see report for citations/download links
+* `Data` – folder with data for analysis
+    * `DS_10283_2409`, `National_Forest_Inventory_Scotland_2022`, and `Native_Woodland_Survey_of_Scotland_4228117159943345825` – external data folders where NFI and NWSS`.shp`s are too large to include in the repo; see report for citations/download links
     * `20MBufferSample.shp` – Example site without external 20m
     * `ActualBuffer.shp` – Example site 20m buffer only using differences
     * `EdgePlotPoints.shp` – Random site centroid points within the 20m site edge
