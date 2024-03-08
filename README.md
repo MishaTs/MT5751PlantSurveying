@@ -17,7 +17,7 @@ The final report can be found in `MT5751Assignment2.docx` and `MT5751Assignment2
     * `SamplePOI.shp` – Pole of inaccessibility for the example site
     * `SamplePoints.shp` – All 4 random site centroid points to "survey"
 * `Assn2_Fig1.jpg` – Figure 1 output from `Figure1.qgz`
-* `Assn2_Fig2.jpg` – Figure 1 output from `Figure2.qgz`
+* `Assn2_Fig2.jpg` – Figure 2 output from `Figure2.qgz`
 * `DataChecks.R` – Data exploration and checking in R
 * `Figure1.qgz` – QGIS project creating the Figure 1 map
 * `Figure2.qgz` – QGIS project creating the Figure 2 map
