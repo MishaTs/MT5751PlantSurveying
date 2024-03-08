@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><MD_Metadata xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:xalan="http://xml.apache.org/xalan" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xmlns="http://www.isotc211.org/2005/gmd">
+    <characterSet>
+        <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+    </characterSet>
+    <hierarchyLevel>
+        <MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+    </hierarchyLevel>
+    <hierarchyLevelName>
+        <gco:CharacterString>dataset</gco:CharacterString>
+    </hierarchyLevelName>
+    <contact gco:nilReason="missing"/>
+    <dateStamp gco:nilReason="missing"/>
+    <metadataStandardName>
+        <gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
+    </metadataStandardName>
+    <metadataStandardVersion>
+        <gco:CharacterString>2007</gco:CharacterString>
+    </metadataStandardVersion>
+    <identificationInfo>
+        <MD_DataIdentification>
+            <citation gco:nilReason="missing"/>
+            <abstract>
+                <gco:CharacterString>The National Forest Inventory (NFI) woodland map covers all forest and
+woodland area over 0.5 hectare with a minimum of 20% canopy cover, or the
+potential to achieve it, and a minimum width of 20 metres. This includes areas
+of new planting, clearfell, windblow and restock. The woodland map excludes all 'tarmac' roads
+and active railways, and forest roads, rivers and powerlines where the gap in
+the woodland is greater than 20 meters wide.
+
+All woodland (both urban and rural), regardless of ownership, is 0.5 hectare
+or greater in extent, with the
+exception of Assumed woodland or Low density areas that can be 0.1
+hectare or greater in extent. Also, in the case of woodland
+areas that cross the countries borders, the minimum size restriction does not
+apply if the overall area complies with the minimum size.
+
+Woodland less than 0.5
+hectare in extent,
+with the expectation of the areas above, will not be described within the dataset but will be included in a separate sample survey of small woodland and tree features.
+
+The woodland map is updated on an
+annual basis and the changes in the woodland boundaries use the Ordnance Survey
+MasterMap® (OSMM) as a reference where appropriated.
+
+
+
+The changes in the canopy cover have been identified on:
+ Sentinel
+     2 imagery taken during spring/summer 2022 or colour aerial
+     orthophotographic imagery available at the time of the assessment;New planting information
+for the financial year 2021/2022, from grant schemes and the sub-compartment
+database covering
+     the estate of Forestry England, Forestry and Land Scotland and Natural
+     Resources Wales;
+Woodland areas, greater than 0.5 hectares, are classified as
+an interpreted forest type (IFT) from aerial photography and satellite imagery.
+Non-woodland areas, open areas greater than 0.5 hectare completely surrounded
+by woodland are described according to open area types.
+
+IFT categories are Conifer, Broadleaved,
+Mixed mainly conifer, Mixed mainly broadleaved, Coppice, Coppice with
+standards,
+Shrub,
+Young trees, Felled, Ground prep,
+Cloud \ shadow,
+Uncertain, Low density,
+Assumed woodland, Failed, Windblow.
+
+IOA
+categories are Open water, Grassland, Agricultural land,
+Urban, Road, River,
+Powerline, Quarry,
+Bare
+area, Windfarm, Other vegetation. 
+
+For further information regarding the interpreted forest
+types (IFT) and the interpreted open areas (IOA) please see NFI description of
+attributes available on  www.forestresearch.gov.uk</gco:CharacterString>
+            </abstract>
+            <purpose>
+                <gco:CharacterString>The National Forest Inventory (NFI) woodland map covers all forest and woodland area over 0.5 hectare with a minimum of 20% canopy cover, or the potential to achieve it, and a minimum width of 20 metres. This includes new planting, clearfell, windblow and restock.</gco:CharacterString>
+            </purpose>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>Scotland</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>OpenData</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Woodland</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Interpreted Forest Type</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Interpreted Open Areas</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Woodland Inventory</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>inventory</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>survey</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>woodland survey</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Aerial Photography</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>FR</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>forestresearch</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>2022</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <resourceConstraints>
+                <MD_Constraints>
+                    <useLimitation>
+                        <gco:CharacterString>There are no public access constraints to this data. Use of this data is subject to the Open Government Licence.Any maps produced using this data should contain the following Forestry Commission acknowledgement: &amp;quot;Contains, or is based on, information supplied by the Forestry Commission. © Crown copyright and database right 2022 Ordnance Survey [AC0000814847]&amp;quot;.</gco:CharacterString>
+                    </useLimitation>
+                </MD_Constraints>
+            </resourceConstraints>
+            <language gco:nilReason="missing"/>
+            <characterSet>
+                <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+            </characterSet>
+        </MD_DataIdentification>
+    </identificationInfo>
+</MD_Metadata>
